@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  GoiTrafficLight
 //
-//  Created by Sarah Rodrigues on 19/12/23.
+//  Created by Guilherme Delfino on 19/12/23.
 //
 
 import UIKit
